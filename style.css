@@ -1,0 +1,52 @@
+.gallery img{ 
+    width:auto;
+    padding-left:180px;
+    padding-top: 100px;
+    page-break-after: auto;
+}
+headtab{
+    font-family: Impact, fantasy;
+    text-align:center;
+    font-size: 90px;
+    color:black;
+    font-style:oblique;
+    
+    padding-left: 500px;
+}
+#menu{
+    width:inherit;
+    height:auto;
+    background-color:blueviolet;
+}
+#menu a{
+    color: #ffffff;
+    font-family:helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight:800px;
+        
+    padding-left: 280px;
+    }
+#menu a:hover{
+    color:#5077bd;
+}
+button{
+    width:auto;
+    height:auto;
+    background-color:lawngreen;
+}
+button:hover{
+     color:blue;
+    font-family:helvetica, sans-serif;
+    font-size:22px;
+    font-weight:800px;
+    
+}
+#button{
+     width:inherit;
+    height:auto;
+    background-color:blueviolet; 
+}
+
+
+
